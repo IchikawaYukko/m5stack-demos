@@ -9,5 +9,7 @@ M5STACK unit, face &amp; atom demos
 * [ToF](faces_finger_demo.m5f)
 
 # UNITs (with M5AtomU)
+  Can be run in old UiFlow Desktop IDE
+* [DigiClock](atomu_digiclock_countup_demo.m5f)
 * [DigiClock + RTC](atomu_digiclock_rtc_demo.m5f)
 
