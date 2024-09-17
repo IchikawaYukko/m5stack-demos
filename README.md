@@ -8,3 +8,6 @@ M5STACK unit, face &amp; atom demos
 * HAT YUN
 * [ToF](faces_finger_demo.m5f)
 
+# UNITs (with M5AtomU)
+* [DigiClock + RTC](atomu_digiclock_rtc_demo.m5f)
+
