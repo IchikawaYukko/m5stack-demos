@@ -12,4 +12,5 @@ M5STACK unit, face &amp; atom demos
   Can be run in old UiFlow Desktop IDE
 * [DigiClock](atomu_digiclock_countup_demo.m5f)
 * [DigiClock + RTC](atomu_digiclock_rtc_demo.m5f)
+* [DigiClock × 2 + RTC](atomu_2digiclock_rtc_demo.m5f) DigiClock 1: i2c 0x30, DigiClock 2: i2c 0x31
 
