@@ -16,3 +16,6 @@ M5STACK unit, face &amp; atom demos
 
 # UNITs (with M5Stack Fire)
 * [HALL](hall_unit_demo.m5f)
+
+# UNITs (with M5Stack BASIC)
+* [DigiClock + RTC + NTP](digiclock_rtc_sync_ntp_demo.m5f) Sync RTC UNIT with NTP
