@@ -1,7 +1,7 @@
 # m5stack-demos
 M5STACK unit, face &amp; atom demos
 
-# M5STACK Faces (with M5STACK BASIC)
+# M5STACK Faces (with M5Stack BASIC)
 * [Faces Fingerprint](faces_finger_demo.m5f)
 
 # HATs (with M5StickC Plus 1.1)
@@ -19,3 +19,6 @@ M5STACK unit, face &amp; atom demos
 
 # UNITs (with M5Stack BASIC)
 * [DigiClock + RTC + NTP](digiclock_rtc_sync_ntp_demo.m5f) Sync RTC UNIT with NTP
+
+# UiFLow Custom Block
+* [MCU Info](MCUinfo.m5b)
