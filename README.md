@@ -12,6 +12,7 @@ M5Stack unit, face &amp; atom demos
 * [Motion](atom_motion_demo.m5f)
 
 # Atomic Base (with M5Atom Matrix)
+* [GPS](atom_matrix_gps_demo.m5f)
 * [GPS 115200bps](atom_matrix_gps_115200bps_demo.m5f) ※Change Baudrate setting by [u-center](https://www.u-blox.com/en/product/u-center) software. [u-center 設定方法日本語解説](https://intellectualcuriosity.hatenablog.com/entry/2020/07/01/041715)
 
 # UNITs (with M5AtomU)
