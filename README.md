@@ -26,5 +26,8 @@ M5STACK unit, face &amp; atom demos
 # UNITs (with M5Stack BASIC)
 * [DigiClock + RTC + NTP](digiclock_rtc_sync_ntp_demo.m5f) Sync RTC UNIT with NTP
 
+# Third Party
+* Atom Lite + [Door Sensor](atom_iot_door_sensor_GPIO33_demo.m5f) (GPIO 33) [SYNTEX SPS-320](https://akizukidenshi.com/catalog/g/g113371/)
+
 # UiFLow Custom Block
 * [MCU Info](MCUinfo.m5b)
