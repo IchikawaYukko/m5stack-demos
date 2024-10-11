@@ -1,7 +1,7 @@
 # m5stack-demos
-M5STACK unit, face &amp; atom demos
+M5Stack unit, face &amp; atom demos
 
-# M5STACK Faces (with M5Stack BASIC)
+# M5Stack Faces (with M5Stack BASIC)
 * [Faces Fingerprint](faces_finger_demo.m5f)
 
 # HATs (with M5StickC Plus 1.1)
@@ -25,6 +25,7 @@ M5STACK unit, face &amp; atom demos
 
 # UNITs (with M5Stack BASIC)
 * [DigiClock + RTC + NTP](digiclock_rtc_sync_ntp_demo.m5f) Sync RTC UNIT with NTP
+* [Camera DIY KIT](m5core_unitcam_diy_kit_porta_demo.m5f)
 
 # Third Party
 * Atom Lite + [Door Sensor](atom_iot_door_sensor_GPIO33_demo.m5f) (GPIO 33) [SYNTEX SPS-320](https://akizukidenshi.com/catalog/g/g113371/)
