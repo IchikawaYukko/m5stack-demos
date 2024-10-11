@@ -8,6 +8,9 @@ M5STACK unit, face &amp; atom demos
 * HAT YUN
 * [ToF](faces_finger_demo.m5f)
 
+# Atom Base (with M5Atom Lite)
+* [Motion](atom_motion_demo.m5f)
+
 # UNITs (with M5AtomU)
   Can be run in old UiFlow Desktop IDE
 * [DigiClock](atomu_digiclock_countup_demo.m5f)
