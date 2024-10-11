@@ -8,8 +8,11 @@ M5STACK unit, face &amp; atom demos
 * HAT YUN
 * [ToF](faces_finger_demo.m5f)
 
-# Atom Base (with M5Atom Lite)
+# Atomic Base (with M5Atom Lite)
 * [Motion](atom_motion_demo.m5f)
+
+# Atomic Base (with M5Atom Matrix)
+* [GPS 115200bps](atom_matrix_gps_115200bps_demo.m5f) ※Change Baudrate setting by [u-center](https://www.u-blox.com/en/product/u-center) software.
 
 # UNITs (with M5AtomU)
   Can be run in old UiFlow Desktop IDE
