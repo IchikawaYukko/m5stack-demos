@@ -5,7 +5,7 @@ M5Stack unit, face &amp; atom demos
 * [Faces Fingerprint](faces_finger_demo.m5f)
 
 # HATs (with M5StickC Plus 1.1)
-* HAT YUN
+* [HAT YUN](stickc_hat_yun_demo.m5f)
 * [ToF](faces_finger_demo.m5f)
 
 # Atomic Base (with M5Atom Lite)
