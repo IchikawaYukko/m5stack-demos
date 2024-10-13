@@ -20,6 +20,7 @@ M5Stack unit, face &amp; atom demos
 * [DigiClock](atomu_digiclock_countup_demo.m5f)
 * [DigiClock + RTC](atomu_digiclock_rtc_demo.m5f)
 * [DigiClock × 2 + RTC](atomu_2digiclock_rtc_demo.m5f) DigiClock 1: i2c 0x30, DigiClock 2: i2c 0x31
+* [DigiClock × 6 + RTC](atomu_6digiclock_rtc_demo.m5f) DigiClock 1~6: i2c 0x30~0x35
 
 # UNITs (with M5Stack Fire)
 * [HALL](hall_unit_demo.m5f)
