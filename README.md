@@ -10,6 +10,7 @@ M5Stack unit, face &amp; atom demos
 
 # Atomic Base (with M5Atom Lite)
 * [Motion](atom_motion_demo.m5f)
+* [Scale Kit + DigiClock + PortABC](atom_lite_scale_kit_demo.m5f) 0~200kg, PortA: DigiClock, PortB: Scale Kit
 
 # Atomic Base (with M5Atom Matrix)
 * [GPS](atom_matrix_gps_demo.m5f)
