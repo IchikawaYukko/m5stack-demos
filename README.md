@@ -22,6 +22,7 @@ M5Stack unit, face &amp; atom demos
 * [DigiClock + RTC](atomu_digiclock_rtc_demo.m5f)
 * [DigiClock × 2 + RTC](atomu_2digiclock_rtc_demo.m5f) DigiClock 1: i2c 0x30, DigiClock 2: i2c 0x31
 * [DigiClock × 6 + RTC](atomu_6digiclock_rtc_demo.m5f) DigiClock 1\~6: i2c 0x30\~0x35
+* [DigiClock × 6 + RTC + NTP](atomu_6digiclock_rtc_ntp_demo.m5f.m5f) DigiClock 1\~6: i2c 0x30\~0x35 Sync with NTP every 1 hour (00:00).
 
 # UNITs (with M5Stack Fire)
 * [HALL](hall_unit_demo.m5f)
