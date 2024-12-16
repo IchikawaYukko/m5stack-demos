@@ -3,6 +3,7 @@ M5Stack unit, face &amp; atom demos
 
 # M5Stack Faces (with M5Stack BASIC)
 * [Faces Fingerprint](faces_finger_demo.m5f)
+* [Faces Joystick](faces_joystick_demo.m5f) Works both of BASIC & Fire.
 
 # HATs (with M5StickC Plus 1.1)
 * [HAT YUN](stickc_hat_yun_demo.m5f)
